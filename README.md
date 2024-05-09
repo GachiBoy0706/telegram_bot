@@ -42,11 +42,6 @@ Crossword Generator bot поможет пользователю составит
 - **/generate** - начало генерации кроссворда
 - **/users_count** - количество пользователей бота
 
-## Demonstration
-
-Видео демонстрации работы:
-
-https://github.com/tak172/Crossword_generator_bot/assets/120005445/4a01198e-5630-4807-826d-4a18b35d0761
 
 ## Documentation
 
